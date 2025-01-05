@@ -1,7 +1,15 @@
-## Hi there 👋
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ainges&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ainges&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ainges&layout=compact&theme=radical)
+</div>
 
 <!--
 **Ainges/Ainges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
